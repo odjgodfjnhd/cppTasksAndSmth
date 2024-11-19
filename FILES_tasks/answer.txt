@@ -1,0 +1,3 @@
+Total sentences in file: 4
+AVG words per sentece: 4
+Total words in file: 16
